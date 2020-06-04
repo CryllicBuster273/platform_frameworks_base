@@ -6429,7 +6429,7 @@ public final class Settings {
                 BOOLEAN_VALIDATOR;
 
         /**
-	 * User selected refresh rate
+         * User selected refresh rate
          * @hide
          */
         public static final String REFRESH_RATE_SETTING = "refresh_rate_setting";
